@@ -7,7 +7,7 @@ Create a virtual network in Azure, define an address space, and configure subnet
 
 ## Step 1 - Navigate to Virtual Networks
 
-![Step 1](./screenshots/vnet1.png)
+![Step 1](./screenshots/Vnet1.png)
 
 - Went to Azure Portal  
 - Searched for **Virtual networks**  
@@ -17,7 +17,7 @@ Create a virtual network in Azure, define an address space, and configure subnet
 
 ## Step 2 - Configure Basics
 
-![Step 2](./screenshots/vnet2.png)
+![Step 2](./screenshots/Vnet2.png)
 
 - Selected subscription  
 - Chose resource group (VNETRG)  
@@ -28,7 +28,7 @@ Create a virtual network in Azure, define an address space, and configure subnet
 
 ## Step 3 - Configure Address Space
 
-![Step 3](./screenshots/vnet3.png)
+![Step 3](./screenshots/Vnet3.png)
 
 - Set IPv4 address space to **10.20.0.0/16**  
 - Reviewed available IP range  
@@ -38,7 +38,7 @@ Create a virtual network in Azure, define an address space, and configure subnet
 
 ## Step 4 - Create Subnet
 
-![Step 4](./screenshots/vnet4.png)
+![Step 4](./screenshots/Vnet4.png)
 
 - Added new subnet  
 - Named subnet: **Leadership_Subnet**  
@@ -49,7 +49,7 @@ Create a virtual network in Azure, define an address space, and configure subnet
 
 ## Step 5 - Deploy and Review VNet
 
-![Step 5](./screenshots/vnet5.png)
+![Step 5](./screenshots/Vnet5.png)
 
 - Reviewed configuration  
 - Deployed virtual network  
