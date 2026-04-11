@@ -32,27 +32,22 @@ Create a virtual network in Azure, define an address space, and configure subnet
 
 - Set IPv4 address space to **10.20.0.0/16**  
 - Reviewed available IP range  
-- Prepared to segment network into subnets  
-
+- Segmented network into 2 subnets, IT an Leadership
 ---
 
-## Step 4 - Create Subnet
+## Step 4 - Deployed Network
 
 ![Step 4](./screenshots/Vnet4.png)
 
-- Added new subnet  
-- Named subnet: **Leadership_Subnet**  
-- Set subnet range to **10.20.20.0/24**  
-- Enabled private subnet setting (no default outbound access)  
+- Reviewed configuration  
+- Deployed virtual network 
 
 ---
 
-## Step 5 - Deploy and Review VNet
+## Step 4 - Deploy and Review VNet
 
 ![Step 5](./screenshots/Vnet5.png)
 
-- Reviewed configuration  
-- Deployed virtual network  
 - Verified address space and subnet creation  
 
 ---
